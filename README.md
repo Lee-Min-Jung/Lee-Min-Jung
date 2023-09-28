@@ -27,7 +27,7 @@
   <tr>
     <td><img src="https://github.com/Lee-Min-Jung/Lee-Min-Jung/assets/82032462/527fee14-7c1c-4812-ae0a-b7428f156dbf" alt="싹쓰리" height=100 width=100></td>
     <td><a href="https://github.com/Lee-Min-Jung/ssackthree_back">싹쓰리 프로젝트</a></td>
-    <td>상품 가치가 떨어진 식료품을 대상으로 하는 가격 할인 거래 플랫폼</td>
+    <td>상품 가치가 떨어진 식료품을 대상으로 하는 스프링 활용 가격 할인 거래 플랫폼</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Lee-Min-Jung/Lee-Min-Jung/assets/82032462/61adf0a3-40b1-4c12-9156-5537dd230b7d" alt="갓모닝" height=100 width=100></td>
