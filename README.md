@@ -26,18 +26,18 @@
 
   <tr>
     <td><img src="https://github.com/Lee-Min-Jung/Lee-Min-Jung/assets/82032462/527fee14-7c1c-4812-ae0a-b7428f156dbf" alt="싹쓰리" height=100 width=100></td>
-    <td><a href="https://github.com/Lee-Min-Jung/ssackthree_back">싹쓰리 프로젝트</a></td>
-    <td>상품 가치가 떨어진 식료품을 대상으로 하는 스프링 활용 가격 할인 거래 플랫폼</td>
+    <td><a href="https://github.com/Lee-Min-Jung/ssackthree_back">🔷싹쓰리 프로젝트🔷</a></td>
+    <td>상품 가치가 떨어진 식료품을 대상으로 하는 가격 할인 거래 플랫폼</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Lee-Min-Jung/Lee-Min-Jung/assets/82032462/61adf0a3-40b1-4c12-9156-5537dd230b7d" alt="갓모닝" height=100 width=100></td>
     <td><a href="https://github.com/Lee-Min-Jung/godMorning_backend">갓모닝 프로젝트</a></td>
-    <td>본인의 모닝 루틴을 작성하고 다른사람들과 공유하는 스프링 활용 갓모닝</td>
+    <td>본인의 모닝 루틴을 작성하고 다른사람들과 공유하는 갓모닝 프로젝트</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Lee-Min-Jung/Lee-Min-Jung/assets/82032462/569578b4-a638-445d-a844-c8ce0d7bfa68" alt="일인분" height=100 width=100></td>
     <td><a href="https://github.com/Lee-Min-Jung/oneportion_anywhere">일인분 프로젝트</a></td>
-    <td>선택한 재료대로 레시피를 추천해주는 장고 활용 일인분 프로젝트</td>
+    <td>선택한 재료대로 레시피를 추천해주는 일인분 프로젝트</td>
   </tr>
 </table>
 
